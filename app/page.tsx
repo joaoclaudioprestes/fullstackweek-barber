@@ -1,7 +1,7 @@
-import Image from "next/image";
+import Header from "./(home)/page";
 
 export default function Home() {
   return (
-    <h1>Full Stack week</h1>
+    <Header />
   );
 }
